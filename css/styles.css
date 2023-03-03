@@ -222,7 +222,7 @@ p {
         position: static;
     }
 
-    .container-fluid {
+    #title .container-fluid {
         text-align: center;
     }
 
